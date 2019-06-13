@@ -1,3 +1,11 @@
 body{
-    background-color: antiquewhite;
+    background-color: blueviolet;
+}
+div{
+    background-color: whitesmoke;
+    width: 150px;
+    border: 15px solid hotpink;
+    padding: 50px;
+    margin: 20px;
+    height: 100;
 }
